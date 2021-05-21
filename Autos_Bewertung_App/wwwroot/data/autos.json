@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Bmw I8",
+    "img": "https://img.car.com/2019/bmw/i8/47795_11_2_320x.png",
+    "price": "163.000 $",
+    "rating": null
+  },
+  {
+    "id": 2,
+    "title": "Porsche 911 Turbo",
+    "img": "https://img.car.com/2019/porsche/911/49725_11_2_320x.png",
+    "price": "174.000 $",
+    "rating": null
+  },
+  {
+    "id": 3,
+    "title": "Acura NSX",
+    "img": "https://img.car.com/2019/acura/nsx/49987_11_2_320x.png",
+    "price": "156.000 $",
+    "rating": null
+  },
+  {
+    "id": 4,
+    "title": "Audi R8 5.2 V10",
+    "img": "https://img.car.com/2018/audi/r8/45104_11_2_320x.png",
+    "price": "165.000 $",
+    "rating": null
+  },
+  {
+    "id": 5,
+    "title": "Chevrolet Corvette Z06",
+    "img": "https://img.car.com/2019/chevrolet/corvette/47553_11_2_320x.png",
+    "price": "80.000 $",
+    "rating": null
+  },
+  {
+    "id": 6,
+    "title": "Mercedes-Benz AMG GT R",
+    "img": "https://img.car.com/2020/mercedes-benz/amg-gt/50847_11_2_320x.png",
+    "price": "157.000 $",
+    "rating": null
+  },
+  {
+    "id": 7,
+    "title": "Ford Shelby GT350 Shelby GT350",
+    "img": "https://img.car.com/2019/ford/shelby-gt350/50026_11_2_320x.png",
+    "price": "60000 $",
+    "rating": null
+  },
+  {
+    "id": 8,
+    "title": "Alfa Romeo 4C Spider",
+    "img": "https://img.car.com/2019/alfa-romeo/4c-spider/48138_11_2_320x.png",
+    "price": "66.000 $",
+    "rating": null
+  },
+  {
+    "id": 9,
+    "title": "Nissan GT-R Premium",
+    "img": "https://img.car.com/2019/nissan/gt-r/50331_11_2_320x.png",
+    "price": "110000 $",
+    "rating": null
+  }
+]

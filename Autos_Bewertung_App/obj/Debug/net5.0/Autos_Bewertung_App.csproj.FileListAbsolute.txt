@@ -1,0 +1,90 @@
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\appsettings.Development.json
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\appsettings.json
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.exe
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.deps.json
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.runtimeconfig.json
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.runtimeconfig.dev.json
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\ref\Autos_Bewertung_App.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.pdb
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.Views.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.Views.pdb
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csprojAssemblyReference.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.GeneratedMSBuildEditorConfig.editorconfig
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.AssemblyInfoInputs.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.AssemblyInfo.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csproj.CoreCompileInputs.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.MvcApplicationPartsAssemblyInfo.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorAssemblyInfo.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorAssemblyInfo.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\staticwebassets\Autos_Bewertung_App.StaticWebAssets.Manifest.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\staticwebassets\Autos_Bewertung_App.StaticWebAssets.xml
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\scopedcss\bundle\Autos_Bewertung_App.styles.css
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.TagHelpers.input.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.TagHelpers.output.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorCoreGenerate.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorTargetAssemblyInfo.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorTargetAssemblyInfo.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.Views.pdb
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\ref\Autos_Bewertung_App.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.pdb
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.genruntimeconfig.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csproj.CopyComplete
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorComponent.input.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\RazorDeclaration\Components\AutoList.razor.g.cs
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorComponent.output.cache
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\RazorDeclaration\Autos_Bewertung_App.dll
+Z:\projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Components\AutoList.razor.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\appsettings.Development.json
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\appsettings.json
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.exe
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.deps.json
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.runtimeconfig.json
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.runtimeconfig.dev.json
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\ref\Autos_Bewertung_App.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.pdb
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.Views.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\bin\Debug\net5.0\Autos_Bewertung_App.Views.pdb
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csprojAssemblyReference.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.GeneratedMSBuildEditorConfig.editorconfig
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.AssemblyInfoInputs.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.AssemblyInfo.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csproj.CoreCompileInputs.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.MvcApplicationPartsAssemblyInfo.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorComponent.input.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\RazorDeclaration\Components\AutoList.razor.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorComponent.output.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\RazorDeclaration\Autos_Bewertung_App.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.TagHelpers.input.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.TagHelpers.output.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorCoreGenerate.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Components\AutoList.razor.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorAssemblyInfo.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorAssemblyInfo.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\staticwebassets\Autos_Bewertung_App.StaticWebAssets.Manifest.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\staticwebassets\Autos_Bewertung_App.StaticWebAssets.xml
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\scopedcss\bundle\Autos_Bewertung_App.styles.css
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorTargetAssemblyInfo.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.RazorTargetAssemblyInfo.cs
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.Views.pdb
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\ref\Autos_Bewertung_App.dll
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.pdb
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.genruntimeconfig.cache
+Z:\projects\personal projects\Autos_Bewertung_App\Autos_Bewertung_App\obj\Debug\net5.0\Autos_Bewertung_App.csproj.CopyComplete

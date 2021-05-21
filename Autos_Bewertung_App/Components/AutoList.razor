@@ -1,0 +1,114 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@using Autos_Bewertung_App.Services
+@using Autos_Bewertung_App.Models
+@inject JsonDateiAutoService AutoService
+
+<div class="card-columns">
+    @foreach (var auto in AutoService.GetAutos())
+    {
+        <div class="card">
+            <div class="card-img" style="text-align:center">
+                <img style="width:100%" src="@auto.Image" />
+            </div>
+            <div class="card-body">
+                <h5>@auto.Title</h5>
+                <span>@auto.Price</span>
+            </div>
+            <small class="text-muted">
+                <button @onclick="(e => SelectAuto(auto.Id))" data-toggle="modal" data-target="#autoModal" class="btn btn-primary">
+                    Bewerten
+                </button>
+            </small>
+        </div>
+    }
+</div>
+
+
+@if (selectedAuto != null)
+{
+    <div class="modal fade" id="autoModal" tabindex="-1" role="dialog" aria-labelledby="autoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="autoTitle">@selectedAuto.Title</h5><br />
+                    <span>@selectedAuto.Price</span>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" style="height:300px">
+                    <div class="card" style="height:300px">
+                        <div class="card-img">
+                            <img style="width:100%" src="@selectedAuto.Image" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    @if (voteCount == 0)
+                    {
+                        <span>Sei der erster Bewerter!</span>
+                    }
+                    else
+                    {
+                        <span>@voteCount @voteLabel</span>
+                    }
+                    @for (int i = 1; i < 6; i++)
+                    {
+                        var currentStar = i;
+                        if (i <= currentRating)
+                        {
+                            <span class="fa fa-star checked" @onclick="(e => SubmitRating(currentStar))"></span>
+                        }
+                        else
+                        {
+                            <span class="fa fa-star" @onclick="(e => SubmitRating(currentStar))"></span>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+@code {
+    Auto selectedAuto;
+    int selectedAutoId;
+
+    void SelectAuto(int id)
+    {
+        selectedAutoId = id;
+        selectedAuto = AutoService.GetAutos().First(x => x.Id == id);
+        GetCurrentRating();
+    }
+
+
+    int currentRating = 0;
+    int voteCount = 0;
+    string voteLabel;
+
+    void GetCurrentRating()
+    {
+        if (selectedAuto.Bewertung == null)
+        {
+            currentRating = 0;
+            voteCount = 0;
+        }
+        else
+        {
+            voteCount = selectedAuto.Bewertung.Count();
+            voteLabel = voteCount > 1 ? "Votes" : "Vote";
+            currentRating = selectedAuto.Bewertung.Sum() / voteCount;
+        }
+
+        System.Console.WriteLine($"Current rating for {selectedAuto.Id}: {currentRating}");
+    }
+
+    void SubmitRating(int rating)
+    {
+        System.Console.WriteLine($"Rating received for {selectedAuto.Id}: {rating}");
+        AutoService.AddRating(selectedAutoId, rating);
+        SelectAuto(selectedAutoId);
+    }
+}

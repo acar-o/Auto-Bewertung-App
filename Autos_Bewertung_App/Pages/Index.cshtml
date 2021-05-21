@@ -1,0 +1,14 @@
+﻿@page
+@using Autos_Bewertung_App.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Auto Bewertung App";
+}
+
+<div class="text-center">
+    <h4 class="display-4">Autos</h4>
+</div>
+
+@(await Html.RenderComponentAsync<AutoList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
